@@ -1,0 +1,11 @@
+servers:
+    - url: localhost
+      port: 22
+      httpPort: 8080
+      httpsPort: 8443
+    - url: localhost
+      port: 23
+      httpPort: 8081
+      httpsPort: 8444
+keystorePassword: test12345678
+tomcatHome: /usr/local/tomcat
