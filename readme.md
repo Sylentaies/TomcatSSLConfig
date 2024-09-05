@@ -3,7 +3,7 @@
 ## Prerequisite 
 
 ### Running Environment
-- Docker(For testing localy)
+- Docker(For local dev enviroment)
 - Java 11 and Groovy 4 or up 
 
 ### Tomcat instance deploying 
